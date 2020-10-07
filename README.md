@@ -8,14 +8,14 @@ This website is developed to provide services to different organizations or comp
 
 #Some images of website
 
-*Patrtial Part of home page
+* Patrtial Part of home page
 ![image](https://user-images.githubusercontent.com/32640120/95312278-5b0e6800-08ac-11eb-8b0c-94f9a1216902.png)
 
-*Sign-up page
+* Sign-up page
 ![image](https://user-images.githubusercontent.com/32640120/95312906-23ec8680-08ad-11eb-8cd9-40ef0ed167a3.png)
 
 
-*Login Page
+* Login Page
 
 ![image](https://user-images.githubusercontent.com/32640120/95312661-d839dd00-08ac-11eb-8c3d-27365710b7f2.png)
 
