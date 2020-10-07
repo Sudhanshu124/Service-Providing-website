@@ -17,7 +17,7 @@ This website is developed to provide services to different organizations or comp
 
 * Login Page
 
-![image](https://user-images.githubusercontent.com/32640120/95312661-d839dd00-08ac-11eb-8c3d-27365710b7f2.png)
+ ![image](https://user-images.githubusercontent.com/32640120/95312661-d839dd00-08ac-11eb-8c3d-27365710b7f2.png)
 
 
 
