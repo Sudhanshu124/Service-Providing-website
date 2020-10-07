@@ -6,7 +6,7 @@ This website is developed to provide services to different organizations or comp
 * Servlet, JSP, JDBC, SQL and some basic concepts of Ajax for backend.
 
 
-#Some images of website
+# Some images of website
 
 * Patrtial Part of home page
 ![image](https://user-images.githubusercontent.com/32640120/95312278-5b0e6800-08ac-11eb-8b0c-94f9a1216902.png)
